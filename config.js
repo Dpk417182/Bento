@@ -175,13 +175,13 @@ const CONFIG = {
 			link: 'https://github.com/',
 		},
 		{
-			id: '3',
+			id: '2',
 			name: 'Todoist',
 			icon: 'list-checks',
 			link: 'https://todoist.com/',
 		},
 		{
-			id: '1',
+			id: '3',
 			name: 'Music',
 			icon: 'headphones',
 			link: 'https://open.spotify.com/',

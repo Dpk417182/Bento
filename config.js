@@ -51,24 +51,24 @@ const CONFIG = {
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
 	// firstButtonsContainer: [
-	// 	{
-	// 		id: '1',
-	// 		name: 'Github',
-	// 		icon: 'github',
-	// 		link: 'https://github.com/',
-	// 	},
+		// {
+		// 	id: '1',
+		// 	name: 'Github',
+		// 	icon: 'github',
+		// 	link: 'https://github.com/',
+		// },
 	// 	{
 	// 		id: '2',
 	// 		name: 'Mail',
 	// 		icon: 'mail',
 	// 		link: 'https://mail.protonmail.com/',
 	// 	},
-	// 	{
-	// 		id: '3',
-	// 		name: 'Todoist',
-	// 		icon: 'trello',
-	// 		link: 'https://todoist.com',
-	// 	},
+		// {
+		// 	id: '3',
+		// 	name: 'Todoist',
+		// 	icon: 'trello',
+		// 	link: 'https://todoist.com',
+		// },
 	// 	{
 	// 		id: '4',
 	// 		name: 'Calendar',
@@ -106,19 +106,19 @@ const CONFIG = {
 			id: '3',
 			name: 'Whatsapp',
 			icon: 'message-circle',
-			link: 'https://web.whatsapp.com',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '4',
 			name: 'Yahoo',
 			icon: 'mail',
-			link: 'https://yahoo.com',
+			link: 'https://yahoo.com/',
 		},
 		{
 			id: '5',
 			name: 'Netflix',
 			icon: 'play',
-			link: 'https://netflix.com',
+			link: 'https://netflix.com/',
 		},
 		{
 			id: '6',
@@ -128,24 +128,63 @@ const CONFIG = {
 		},
 	],
 
+	// secondButtonsContainer: [
+		// {
+		// 	id: '1',
+		// 	name: 'Music',
+		// 	icon: 'headphones',
+		// 	link: 'https://open.spotify.com',
+		// },
+	// 	{
+	// 		id: '2',
+	// 		name: 'twitter',
+	// 		icon: 'twitter',
+	// 		link: 'https://twitter.com/',
+	// 	},
+	// 	{
+	// 		id: '3',
+	// 		name: 'bot',
+	// 		icon: 'bot',
+	// 		link: 'https://discord.com/app',
+	// 	},
+	// 	{
+	// 		id: '4',
+	// 		name: 'Amazon',
+	// 		icon: 'shopping-bag',
+	// 		link: 'https://amazon.com/',
+	// 	},
+	// 	{
+	// 		id: '5',
+	// 		name: 'Hashnode',
+	// 		icon: 'pen-tool',
+	// 		link: 'https://hashnode.com/',
+	// 	},
+	// 	{
+	// 		id: '6',
+	// 		name: 'Figma',
+	// 		icon: 'figma',
+	// 		link: 'https://figma.com/',
+	// 	},
+	// ],
+
 	secondButtonsContainer: [
+		{
+			id: '1',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
+		},
+		{
+			id: '3',
+			name: 'Todoist',
+			icon: 'list-checks',
+			link: 'https://todoist.com/',
+		},
 		{
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
-		},
-		{
-			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
-		},
-		{
-			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			link: 'https://open.spotify.com/',
 		},
 		{
 			id: '4',
@@ -155,15 +194,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'BofA',
+			icon: 'landmark',
+			link: 'https://.bankofamerica.com/',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'Crunchyroll',
+			icon: 'japanese-yen',
+			link: 'https://crunchyroll.com/',
 		},
 	],
 
